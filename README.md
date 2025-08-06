@@ -148,18 +148,6 @@ Highest classification accuracy using combined feature set:
 
 ---
 
-## 📷 GitHub Tip
-
-To preview figures directly:
-- Make sure images are committed under the `figures/` directory.
-- Use standard markdown syntax like:
-```markdown
-![Alt Text](figures/filename.png)
-```
-GitHub will render these in the README automatically.
-
----
-
 ## 🙌 Acknowledgements
 
 - Dataset: [LC25000 - Kaggle](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
